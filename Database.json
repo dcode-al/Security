@@ -1,6 +1,15 @@
-[
- {
-  "name": "alpin",
-  "number": "628319775534"
- }
-]
+{
+  "users": {
+    "6282179287991@s.whatsapp.net": {
+      "nama": "",
+      "premium": false,
+      "number": 0
+    },
+    "6283873597154@s.whatsapp.net": {
+      "nama": "",
+      "premium": false,
+      "number": 0,
+      "nobot": "6289531639634"
+    }
+  }
+}
