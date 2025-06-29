@@ -3,8 +3,8 @@
            "OWNER": "LatestX",
            "EMAIL": "latesturltech@gmail.com",
            "ACCESS": false,
-           "username": "admin",
-           "password": "admin123",
+           "USERNAME": "admin",
+           "PASSWORD": "admin123",
            "BANNED": false,
            "BAN_REASON": null,
            "MAINTENANCE": false
