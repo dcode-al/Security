@@ -1,1 +1,22 @@
-[{"number":"1","pemilik":"7275466014"},{"number":"628","pemilik":"7275466014"},{"number":"6282120454841","pemilik":"7275466014"}]
+[
+       {
+           "OWNER": "LatestX",
+           "EMAIL": "latesturltech@gmail.com",
+           "ACCESS": false,
+           "USERNAME": "admin",
+           "PASSWORD": "admin123",
+           "BANNED": false,
+           "BAN_REASON": null,
+           "MAINTENANCE": false
+       },
+       {
+           "OWNER": "RaolX",
+           "EMAIL": "latesturltech@example.com",
+           "ACCESS": true,
+           "USERNAME": "raol",
+           "PASSWORD": "root",
+           "BANNED": false,
+           "BAN_REASON": null,
+           "MAINTENANCE": false
+       }
+]
